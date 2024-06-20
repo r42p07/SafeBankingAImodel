@@ -5,4 +5,5 @@ Safe Banking is a startup project aimed at designing a machine learning model to
 
 ### How do I get started?
 ```bash
-   git clone https://github.com/yourusername/SafeBankingAI.git
+   git clone https://github.com/r42p07/SafeBankingAImodel.git
+```
