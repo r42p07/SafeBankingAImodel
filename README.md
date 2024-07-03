@@ -26,3 +26,18 @@ pip install -r requirements.txt
 pip install jupyter
 
 ```
+### Usage
+##### Using Jupyter Notebook
+1. Launch Jupyter Notebook:
+```sh
+jupyter notebook
+
+```
+2. Open the credit_card_fraud_detection.ipynb file.
+
+3. Execute the cells sequentially to preprocess data, train models, and evaluate results.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
