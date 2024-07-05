@@ -43,4 +43,4 @@ Add any other context about the problem here.
 
 ### Code of Conduct
 
-- [ ] I have read and agree to abide by the [Code of Conduct](../models/CODE_OF_CONDUCT.md).
+- [ ] I have read and agree to abide by the [Code of Conduct](./models/CODE_OF_CONDUCT.md).
