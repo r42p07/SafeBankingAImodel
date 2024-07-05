@@ -14,6 +14,7 @@ Clone the forked repository to your local machine to start working on your chang
 
 ```bash
 git clone https://github.com/r42p07/SafeBankingAImodel.git
+```
 
 ### Code of Conduct
 
