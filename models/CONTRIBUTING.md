@@ -14,3 +14,7 @@ Clone the forked repository to your local machine to start working on your chang
 
 ```bash
 git clone https://github.com/r42p07/SafeBankingAImodel.git
+
+### Code of Conduct
+
+This project is committed to fostering a welcoming and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectations for behavior when interacting with the project and its community.
