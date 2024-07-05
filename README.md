@@ -54,5 +54,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Kaggle for providing the dataset: [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Scikit-learn library for machine learning models
 
+## Code of Conduct
 
+This project is committed to fostering a welcoming and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectations for behavior when interacting with the project and its community.
 
