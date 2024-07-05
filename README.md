@@ -45,7 +45,7 @@ jupyter notebook
 4. Follow the instructions in the notebook to preprocess the data, train the models, and evaluate their performance.
 
 ## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
+Contributions are welcome! Please read the [CONTRIBUTING.md](./models/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
