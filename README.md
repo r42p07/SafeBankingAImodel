@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Code of Conduct
 
-This project is committed to fostering a welcoming and respectful community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectations for behavior when interacting with the project and its community.
+This project is committed to fostering a welcoming and respectful community. Please read our [Code of Conduct](./models/CODE_OF_CONDUCT.md) to understand the expectations for behavior when interacting with the project and its community.
 
