@@ -25,4 +25,4 @@ Add any other context or screenshots about the feature request here.
 
 ### Code of Conduct 
 
-- [ ] I have read and agree to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
+- [ ] I have read and agree to abide by the [Code of Conduct](../../models/CODE_OF_CONDUCT.md).
